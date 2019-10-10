@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/adminn/Desktop/latian_glints/Latian/Week8/1(ecommerce )Awak/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/adminn/.gradle/caches/transforms-2/files-2.1/e375b86adb7ac1c1421860b90b697ec6/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
